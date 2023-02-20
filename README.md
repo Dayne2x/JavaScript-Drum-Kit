@@ -23,7 +23,7 @@ This is the first of several projects I did as part of the 30 days of JavaScript
 ### Links
 
 - GitHub URL: [GitHub Code](https://github.com/Dayne2x/JavaScript-Drum-Kit)
-- Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/Palindrome-Checker-Page/)
+- Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/JavaScript-Drum-Kit/)
 
 ## My process
 
