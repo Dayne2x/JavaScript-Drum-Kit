@@ -16,7 +16,7 @@ This is the first of several projects I did as part of the 30 days of JavaScript
 ## Overview
 
 ### Screenshot
-| ![](./design/preview.png) 
+| ![](./design/design.png) 
 | ------------------------------ |
 | Design Preview                |
 
