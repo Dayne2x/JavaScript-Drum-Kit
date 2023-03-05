@@ -47,7 +47,7 @@ I will be doing more projects to further learn and improve.
 
 ### References
 
-Project completed and inspired by the WesBos 30 Day JS Course.
+Project completed and inspired by the WesBos 30 Day JS Course. <br>
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [Make a JavaScript Drum Kit in Vanilla JS! #JavaScript30 1/30](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=1)
 
