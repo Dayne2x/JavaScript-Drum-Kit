@@ -29,7 +29,7 @@ This is the first of several projects I did as part of the 30 days of JavaScript
 
 ### Built with:
 
-- Semantic HTML5 markup
+-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)] Semantic HTML5 markup
 - CSS custom properties
 - JavaScript
 
