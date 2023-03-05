@@ -23,7 +23,7 @@ This is the first of several projects I did as part of the 30 days of JavaScript
 
 ### Links
 
-[- GitHub URL: [GitHub Code]](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)(https://github.com/Dayne2x/JavaScript-Drum-Kit)
+[[- GitHub URL: [GitHub Code]](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)(https://github.com/Dayne2x/JavaScript-Drum-Kit)](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 - Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/JavaScript-Drum-Kit/)
 
 ## My process
