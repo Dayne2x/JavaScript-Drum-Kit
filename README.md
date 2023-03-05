@@ -1,4 +1,4 @@
-# ![({(https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)})] JavaScript Drum Kit
+# ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) JavaScript Drum Kit
 
 This is the first of several projects I did as part of the 30 days of JavaScript exercises. Pressing the corresponding but plays a beat with visal cues.
 
