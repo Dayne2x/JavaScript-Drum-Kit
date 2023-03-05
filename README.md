@@ -11,6 +11,7 @@ This is the first of several projects I did as part of the 30 days of JavaScript
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
+  - [References](#references)
 - [Author](#author)
 
 ## Overview
