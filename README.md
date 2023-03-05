@@ -56,6 +56,6 @@ Project completed and inspired by the WesBos 30 Day JS Course. <br>
 You can find me at:
 
 - Frontend Mentor - [@Dayne2x](https://www.frontendmentor.io/profile/Dayne2x)
-- Github - [@Dayne2x](https://github.com/Dayne2x)
+- Github - [[@Dayne2x](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dayne2x)
 - LinkedIn - [Nemanja](https://www.linkedin.com/in/nemanjadayne/)
 
