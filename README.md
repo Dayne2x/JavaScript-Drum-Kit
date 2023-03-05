@@ -49,7 +49,7 @@ I will be doing more projects to further learn and improve.
 
 Project completed and inspired by the WesBos 30 Day JS Course.
 
-https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=1
+[Make a JavaScript Drum Kit in Vanilla JS! #JavaScript30 1/30](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=1)
 
 
 ## Author
