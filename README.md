@@ -36,7 +36,7 @@ This is the first of several projects I did as part of the 30 days of JavaScript
 
 ### What I learned
 
-I learned about data-keys and first used <kbd> and <audio> input elements as well as arrow functions.
+I learned about data-keys and first used "kbd" and "audio" input elements as well as arrow functions.
 
 
 ### Continued development
