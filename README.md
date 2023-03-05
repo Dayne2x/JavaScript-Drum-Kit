@@ -1,6 +1,7 @@
 # JavaScript Drum Kit
 
 This is the first of several projects I did as part of the 30 days of JavaScript exercises. Pressing the corresponding but plays a beat with visal cues.
+Written in [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 ## Table of contents
 
@@ -43,6 +44,12 @@ I learned about data-keys and first used "kbd" and "audio" input elements as wel
 ### Continued development
 
 I will be doing more projects to further learn and improve.
+
+### References
+
+Project completed and inspired by the WesBos 30 Day JS Course.
+
+https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=1
 
 
 ## Author
